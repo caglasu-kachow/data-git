@@ -1,6 +1,3 @@
-'''
-This is the module docstring
-'''
 
-
-pass  # YOUR CODE HERE
+def i_am_speed():
+    return "ka-chow"
